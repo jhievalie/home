@@ -6,7 +6,7 @@ This repository contains selected projects showcasing my experience in data anal
 
 ## 🌐 Live Portfolio
 
-[View My Portfolio](https://jhievalie.github.io/jomarpajenago/)
+[View My Portfolio](https://jhievalie.github.io/home/)
 
 ## 📊 Featured Projects
 
